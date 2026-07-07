@@ -1,2 +1,6 @@
 Application name: student portal
+<<<<<<< HEAD
 Developed by:digital witch
+=======
+Developed by: haggitech dev teams and digital witch
+>>>>>>> dev
